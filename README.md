@@ -1,10 +1,10 @@
-#Pep/9 Assembly Language
+# Pep/9 Assembly Language
 
 Assembly programs written for CSC 231 – Computer Systems, using the Pep/9 simulator.
 
-##Programs
+## Programs
 
-###HW10 – Number Guessing Game (hw10-guessing-game/guessing_game.pep)
+### HW10 – Number Guessing Game (hw10-guessing-game/guessing_game.pep)
 
 The user thinks of a number between 1 and 100, and the computer guesses it using binary search. After each guess, the user enters:
 
